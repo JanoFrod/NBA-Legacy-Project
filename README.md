@@ -1,6 +1,3 @@
-# Here’s a template for your README file in English, outlining the purpose of the site, technologies used, installation instructions, and any other relevant information:
-
----
 
 # NBA Legacy Project
 
